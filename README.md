@@ -1,4 +1,27 @@
-### Hi there 👋
+## Hi there 👋
+
+
+🔭 I’m currently working on https://rhymebet.com
+
+💬 Read my blog on [blog.bonarhyme.com](https://blog.bonarhyme.com)
+
+💬 Access my portfolio on [bonarhyme.com](https://bonarhyme.com)
+
+🌱 I’m currently teaching web development on my [youtube channel: Bonarhyme Tech Hub](https://www.youtube.com/channel/UCPT421nhI8h1nJ5vIIZ7M9A) [![YouTube Badge](https://img.shields.io/badge/YouTube-Profile-informational?style=flat&logo=youtube&logoColor=red&color=red)](https://www.youtube.com/channel/UCPT421nhI8h1nJ5vIIZ7M9A)
+
+😄  I’m open for a frontend, backend or fullstack role
+
+🔭 I’m currently learning VueJs
+
+⚡ Fun fact: I am a chemical engineer!
+
+📫 How to reach me: 
+
+[![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/bonarhyme)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/bonaventure-onuorah-5b15ba1ba)
+[![CodePen Badge](https://img.shields.io/badge/CodePen-Profile-informational?style=flat&logo=codepen&logoColor=white&color=black)](https://codepen.io/bonarhyme)
+[![YouTube Badge](https://img.shields.io/badge/YouTube-Profile-informational?style=flat&logo=youtube&logoColor=red&color=red)](https://www.youtube.com/channel/UCPT421nhI8h1nJ5vIIZ7M9A)
+
 
 
 ## 💼 Skills
@@ -88,25 +111,4 @@
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=bonarhyme&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34" alt="Bonarhyme's GitHub Stats" />
 </a>
 
-## Pssssst!!!! Look over here!!!
-
-🔭 I’m currently working on https://rhymebet.com
-
-💬 Read my blog on [blog.bonarhyme.com](https://blog.bonarhyme.com)
-
-💬 Access my portfolio on [bonarhyme.com](https://bonarhyme.com)
-
-🌱 I’m currently teaching web development on my [youtube channel: Bonarhyme Tech Hub](https://www.youtube.com/channel/UCPT421nhI8h1nJ5vIIZ7M9A)
-
-😄  I’m open for a frontend, backend or fullstack role
-
-🔭 I’m currently learning VueJs
-
-⚡ Fun fact: I am a chemical engineer!
-
-📫 How to reach me: 
-
-[![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/bonarhyme)
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/bonaventure-onuorah-5b15ba1ba)
-[![CodePen Badge](https://img.shields.io/badge/CodePen-Profile-informational?style=flat&logo=codepen&logoColor=white&color=black)](https://codepen.io/bonarhyme)
 
