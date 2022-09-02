@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 
-🔭 I’m currently working on https://rhymebet.com
+🔭 I’m currently working on https://scpredict.com
 
 💬 Read my blog on [blog.bonarhyme.com](https://blog.bonarhyme.com)
 
@@ -32,6 +32,9 @@
 ![](https://img.shields.io/badge/Code-HTML-informational?style=flat&logo=Html&logoColor=white&color=3498db)
 ![](https://img.shields.io/badge/Code-ExpressJS-informational?style=flat&logo=express&logoColor=white&color=3498db)
 ![](https://img.shields.io/badge/Code-NodeJs-informational?style=flat&logo=nodedotjs&logoColor=white&color=3498db)
+![](https://img.shields.io/badge/tailwind-css%20framework-lightgrey)
+![](https://img.shields.io/badge/bootstrap-css%20framework-lightgrey)
+
 
 <details>
 <summary>More Skills</summary>
