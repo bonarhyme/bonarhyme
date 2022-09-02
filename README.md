@@ -58,44 +58,58 @@
 
 </details>
 
-<br>
 
 
 ## 📌 Pinned Repositories
 
 <br>
 
-<a href="https://github.com/bonarhyme/100-vanilla-JavaScript-Mini-Projects">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=bonarhyme&repo=100-vanilla-JavaScript-Mini-Projects&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a>
-
-<br>
-
-<a href="https://github.com/bonarhyme/send-mail-using-nodejs">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=bonarhyme&repo=send-mail-using-nodejs&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a>
-
-<br>
-
-<a href="https://github.com/bonarhyme/10-react-projects">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=bonarhyme&repo=10-react-projects&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a>
-
-<a href="https://github.com/bonarhyme/e-commerce_store">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=bonarhyme&repo=e-commerce_store&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a>
-
-<a href="https://github.com/bonarhyme/clidive-frontend">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=bonarhyme&repo=clidive-frontend&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a>
-
-<a href="https://github.com/bonarhyme/clidive-backend">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=bonarhyme&repo=clidive-backend&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a>
 
 <a href="https://github.com/bonarhyme/bonarhyme.com">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=bonarhyme&repo=bonarhyme.com&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
+
+<a href="https://github.com/bonarhyme/How-to-query-and-modify-MongoDB-fields-nested-objects-and-nested-arrays-">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=bonarhyme&repo=How-to-query-and-modify-MongoDB-fields-nested-objects-and-nested-arrays-&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=0a1a2a" />
+</a>
+
+
+<a href="https://github.com/bonarhyme/audio-to-pdf-server">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=bonarhyme&repo=audio-to-pdf-server&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=0a1a2a" />
+</a>
+
+
+<a href="https://github.com/bonarhyme/audio-to-pdf-web-client">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=bonarhyme&repo=audio-to-pdf-web-client&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=0a1a2a" />
+</a>
+
+<a href="https://github.com/bonarhyme/clearvoter-server">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=bonarhyme&repo=clearvoter-server&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=0a1a2a" />
+</a>
+
+<a href="https://github.com/bonarhyme/clearvoter-web-client">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=bonarhyme&repo=clearvoter-web-client&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=0a1a2a" />
+</a>
+
+<a href="https://github.com/bonarhyme/send-mail-using-nodejs">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=bonarhyme&repo=send-mail-using-nodejs&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=0a1a2a" />
+</a>
+
+
+<a href="https://github.com/bonarhyme/paddle-frontend-assessment">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=bonarhyme&repo=paddle-frontend-assessment&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=0a1a2a" />
+</a>
+
+
+<a href="https://github.com/bonarhyme/React-Pagination-without-CSS-Framework">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=bonarhyme&repo=React-Pagination-without-CSS-Framework&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=0a1a2a" />
+</a>
+
+
+<a href="https://github.com/bonarhyme/technical-documentation-with-swagger-ui-express">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=bonarhyme&repo=technical-documentation-with-swagger-ui-express&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=0a1a2a" />
+</a>
+
 
 <br>
 <br>
