@@ -68,9 +68,7 @@
 <br>
 
 
-<a href="https://github.com/bonarhyme/bonarhyme.com">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=bonarhyme&repo=bonarhyme.com&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a>
+
 
 <a href="https://github.com/bonarhyme/How-to-query-and-modify-MongoDB-fields-nested-objects-and-nested-arrays-">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=bonarhyme&repo=How-to-query-and-modify-MongoDB-fields-nested-objects-and-nested-arrays-&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=0a1a2a" />
