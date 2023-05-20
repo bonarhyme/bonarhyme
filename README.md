@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 
-🔭 I’m currently working on https://scpredict.com
+🔭 I’m currently working on https://plutips.com
 
 💬 Read my blog on [blog.bonarhyme.com](https://blog.bonarhyme.com)
 
